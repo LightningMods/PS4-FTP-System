@@ -8,6 +8,8 @@ No extra files are needed all files such as eboot are embedded into the Payload
 
 Thanks Sony for making SysCore for me manulate 
 
+Live Host here: https://ps4exploits.darksoftware.xyz/5.05/FTP/
+
 
 ## Credits
 1. Specter
